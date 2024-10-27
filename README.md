@@ -1,4 +1,4 @@
-                                                            👋 Hi, I’m @sunkcoast
+                                                             Hi, I’m @sunkcoast
 
 
 <!---
