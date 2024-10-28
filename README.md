@@ -1,8 +1,8 @@
-                                                             Hi, I’m @sunkcoast
+                                                       👋  Hi, I’m @sunkcoast
 
 ☼ Beginner Progammer
 
-☼ Living on earth
+☼ Currently living in Straw Hat Pirates
 
 <!---
 sunkcoast/sunkcoast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
