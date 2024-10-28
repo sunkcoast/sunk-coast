@@ -1,8 +1,9 @@
                                                        👋  Hi, I’m @sunkcoast
+                                                 
 
 * Beginner Progammer
 
-* Currently livin in Sabaody Archipelago
+* Currently living in Earth
 
 <!---
 sunkcoast/sunkcoast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
