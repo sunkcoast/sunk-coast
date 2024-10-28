@@ -1,8 +1,8 @@
                                                        👋  Hi, I’m @sunkcoast
 
-☼ Beginner Progammer
+* Beginner Progammer
 
-☼ Currently living in Straw Hat Pirates
+* Currently livin in Sabaody Archipelago
 
 <!---
 sunkcoast/sunkcoast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
